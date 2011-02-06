@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'SexyNerdy' target in the 'SexyNerdy' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
